@@ -7,4 +7,5 @@ python:
 script: 
 
   - python hello.py
+  - python abc.py
 
