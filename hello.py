@@ -1,2 +1,3 @@
 print ("Hello")
-return 10
+def hello():
+  return 10
